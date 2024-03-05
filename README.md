@@ -1,0 +1,4 @@
+# forkify Project
+
+Recipe application with custom recipe uploads.
+Forkify is your ultimate recipe hub, offering seamless search, discovery, and saving of your favorite dishes. Delve into a diverse range of recipes perfectly suited to your palate, complete with ingredients. For easy instructions, simply click the link provided below with each recipe and to know more about as well. Bookmark your top picks for instant access whenever inspiration strikes. What's more, share your culinary creations and join a thriving community of food enthusiasts. Forkify streamlines the cooking process, ensuring every meal is a delightful experience from start to finish.
